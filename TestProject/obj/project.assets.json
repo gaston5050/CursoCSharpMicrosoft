@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\gastona\\Desktop\\proyectosVisual\\CsharpProjects\\TestProject\\TestProject.csproj",
+      "projectUniqueName": "C:\\Users\\gastona\\Desktop\\proyectosVisual\\CsharpProjects\\CursoCSharpMicrosoft\\TestProject\\TestProject.csproj",
       "projectName": "TestProject",
-      "projectPath": "C:\\Users\\gastona\\Desktop\\proyectosVisual\\CsharpProjects\\TestProject\\TestProject.csproj",
+      "projectPath": "C:\\Users\\gastona\\Desktop\\proyectosVisual\\CsharpProjects\\CursoCSharpMicrosoft\\TestProject\\TestProject.csproj",
       "packagesPath": "C:\\Users\\gastona\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\gastona\\Desktop\\proyectosVisual\\CsharpProjects\\TestProject\\obj\\",
+      "outputPath": "C:\\Users\\gastona\\Desktop\\proyectosVisual\\CsharpProjects\\CursoCSharpMicrosoft\\TestProject\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
